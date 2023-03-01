@@ -20,11 +20,11 @@ Initialize a Node pointer variable curr to point to the head of the linked list.
 
 While curr is not NULL:
 
-   If inSubset is true and the value of the current node (curr->val) is not in nums, set inSubset to false and increment count.
+a. If inSubset is true and the value of the current node (curr->val) is not in nums, set inSubset to false and increment count.
 
-   If inSubset is false and the value of the current node (curr->val) is in nums, set inSubset to true.
+b. If inSubset is false and the value of the current node (curr->val) is in nums, set inSubset to true.
 
-   Move curr to the next node in the linked list.
+c. Move curr to the next node in the linked list.
 
 If inSubset is true, increment count.
 
@@ -40,8 +40,8 @@ Initialize integer variable i to 0.
 
 While i is less than size:
 
-   If val is equal to arr[i], return 1.
+ a.  If val is equal to arr[i], return 1.
 
-   Increment i.
+ b.  Increment i.
 
 Return 0.
