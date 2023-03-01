@@ -2,9 +2,9 @@
 
 PROBLEM STATEMENT:
 
-Find the longest palindrome from the given string. Palindrome is a word, phrase, or sequence that reads the  same backwards as forwards, e.g. madam, civic, radar.
+The head of the linked list contains an unique integer, while nums is a subset on linked list values. The output  needs to be a number of connected components in nums where two values are connected if they appear  consecutively in the linked list 
 
-![image](https://user-images.githubusercontent.com/85669685/222216139-e67223bc-814a-4abf-8f62-8a428885aa1a.png)
+![image](https://user-images.githubusercontent.com/85669685/222217245-efc24e5e-0b77-4238-87ae-68101f46ca31.png)
 
 Approching the problem by using c programming.
 
